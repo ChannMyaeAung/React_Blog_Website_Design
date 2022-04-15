@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/React_Blog_Website_Design/static/css/main.297df917.css",
+    "main.js": "/React_Blog_Website_Design/static/js/main.6f36ce69.js",
+    "static/media/quick_read_1.jpg": "/React_Blog_Website_Design/static/media/quick_read_1.e333e0b8c08a6758b6d4.jpg",
+    "static/media/quick_read_3.jpg": "/React_Blog_Website_Design/static/media/quick_read_3.989b11669a2bc80830d1.jpg",
+    "static/media/featured-1.jpg": "/React_Blog_Website_Design/static/media/featured-1.ccbe25b990fffa878c0c.jpg",
+    "static/media/older_posts_1.jpg": "/React_Blog_Website_Design/static/media/older_posts_1.61ddcc43502667135362.jpg",
+    "static/media/older_posts_4.jpg": "/React_Blog_Website_Design/static/media/older_posts_4.f7faf69272f90f3121da.jpg",
+    "static/media/older_posts_2.jpg": "/React_Blog_Website_Design/static/media/older_posts_2.6cf31b476f3c7a524a5d.jpg",
+    "index.html": "/React_Blog_Website_Design/index.html",
+    "main.297df917.css.map": "/React_Blog_Website_Design/static/css/main.297df917.css.map",
+    "main.6f36ce69.js.map": "/React_Blog_Website_Design/static/js/main.6f36ce69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.297df917.css",
+    "static/js/main.6f36ce69.js"
+  ]
+}
