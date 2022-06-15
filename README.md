@@ -1,3 +1,23 @@
+Hi, my name is Chan. I am a very passionate web developer who's looking for an oppourtunity to improve myself in a IT industry.
+CONTACT ME : chanaung48944@gmail.com
+The page linke :  https://channmyaeaung.github.io/React_Blog_Website_Design/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
